@@ -8,7 +8,7 @@ OrionLib:MakeNotification({
 })
 
 
-local Window = OrionLib:MakeWindow({Name = "Shalom!", HidePremium = false, SaveConfig = true, ConfigFolder = "Orion"})
+local Window = OrionLib:MakeWindow({Name = "!XanderHub", HidePremium = false, SaveConfig = true, ConfigFolder = "Orion"})
 
 --Player Tab--
 
