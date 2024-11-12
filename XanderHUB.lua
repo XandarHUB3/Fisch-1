@@ -13,13 +13,13 @@ local Window = OrionLib:MakeWindow({Name = "!XanderHub", HidePremium = false, Sa
 --Player Tab--
 
 local PlayerTab = Window:MakeTab({
-	Name = "Fishy",
+	Name = "Fish",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
 
 local PlayerSection = PlayerTab:AddSection({
-	Name = "Fishy"
+	Name = "Fish"
 })
 
 
