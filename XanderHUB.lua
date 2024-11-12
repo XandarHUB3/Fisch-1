@@ -1,14 +1,14 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
 OrionLib:MakeNotification({
-	Name = "Hi rei made this",
-	Content = "XanderHub",
+	Name = "XandarHub",
+	Content = "XandarHub",
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
 
 
-local Window = OrionLib:MakeWindow({Name = "!XanderHub", HidePremium = false, SaveConfig = true, ConfigFolder = "Orion"})
+local Window = OrionLib:MakeWindow({Name = "!XandarHub", HidePremium = false, SaveConfig = true, ConfigFolder = "Orion"})
 
 --Player Tab--
 
